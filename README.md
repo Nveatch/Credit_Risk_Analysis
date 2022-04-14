@@ -8,7 +8,7 @@ The purpose of this analysis was to use Jupyter Notebook to assess the accuracy 
 ## Results
 The following table is an aggregation of all the results from the Jupyter Notebook file:
 
-![ML Table](https://github.com/Nveatch/Credit_Risk_Analysis/blob/main/Resources/ml_table.png))
+![ML Table](https://github.com/Nveatch/Credit_Risk_Analysis/blob/main/Resources/ml_table.png)
 
 - RandomOverSampler had a balanced accuracy score of 0.639(4th best), high risk precision and recall scores of 0.01(3rd best(worst)) and 0.59(6th best(worst)), and low risk precision and recall scores of 1.00(best) and 0.69(4th best)
 
